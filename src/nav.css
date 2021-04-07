@@ -1,0 +1,17 @@
+.n{
+    position: absolute;
+width: 68px;
+height: 21px;
+left: 385px;
+top: 40px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: rgba(31, 46, 53, 0.8);
+}
