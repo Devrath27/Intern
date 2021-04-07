@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Intern/static/css/main.ca5a71c7.chunk.css",
+    "main.js": "/Intern/static/js/main.9df25f10.chunk.js",
+    "main.js.map": "/Intern/static/js/main.9df25f10.chunk.js.map",
+    "runtime-main.js": "/Intern/static/js/runtime-main.59ee3e3d.js",
+    "runtime-main.js.map": "/Intern/static/js/runtime-main.59ee3e3d.js.map",
+    "static/js/2.f25e03ea.chunk.js": "/Intern/static/js/2.f25e03ea.chunk.js",
+    "static/js/2.f25e03ea.chunk.js.map": "/Intern/static/js/2.f25e03ea.chunk.js.map",
+    "static/js/3.900cf0d2.chunk.js": "/Intern/static/js/3.900cf0d2.chunk.js",
+    "static/js/3.900cf0d2.chunk.js.map": "/Intern/static/js/3.900cf0d2.chunk.js.map",
+    "index.html": "/Intern/index.html",
+    "static/css/main.ca5a71c7.chunk.css.map": "/Intern/static/css/main.ca5a71c7.chunk.css.map",
+    "static/js/2.f25e03ea.chunk.js.LICENSE.txt": "/Intern/static/js/2.f25e03ea.chunk.js.LICENSE.txt",
+    "static/media/Lo4.bf8d7110.png": "/Intern/static/media/Lo4.bf8d7110.png",
+    "static/media/pana.65f54915.png": "/Intern/static/media/pana.65f54915.png",
+    "static/media/pana1.536a01aa.png": "/Intern/static/media/pana1.536a01aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59ee3e3d.js",
+    "static/js/2.f25e03ea.chunk.js",
+    "static/css/main.ca5a71c7.chunk.css",
+    "static/js/main.9df25f10.chunk.js"
+  ]
+}
