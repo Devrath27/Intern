@@ -19,7 +19,7 @@ Alam Sutera Serpong, Tangerang 15323
 Fax : +62.21.5314.1135 <br/>
 Email : community@dwidasa.com</p>
             </div>
-            <div className="col-lg-4 p-5" style={{width:"100%"}}>
+            <div className="col-lg-3 " style={{width:"100%"}}>
              <img src={Lo4}/>
             </div>
 
