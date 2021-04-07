@@ -10,7 +10,7 @@ function Comp2()
                 <img className="my-0" src={Pana2} style={{width:"100%"}}/>
             </div>
             <div className="col-lg-5 py-5 my-5 pl-5">
-           <h1 style={{fontSize:"60px"}}>Welcome to<b style={{color:"#EC323B"}}> Dwidasa Samsara <br/> Indonesia (DSI)</b>
+           <h1 style={{fontSize:"50px"}}>Welcome to<b style={{color:"#EC323B"}}> Dwidasa Samsara <br/> Indonesia (DSI)</b>
 </h1>
 
 <p>Dwidasa Samsara Indonesia (DSI) was firstly established in 2010<br/> by the founders, who each of them has a common end objective<br/> to innovate 
